@@ -1,0 +1,9 @@
+[package]
+name = "steampcapdecode"
+version = "0.1.0"
+authors = ["Ted Mielczarek <ted@mielczarek.org>"]
+
+[dependencies]
+error-chain = "0.10.0"
+pcap = "0.6.0"
+protobuf = "1.2.2"
